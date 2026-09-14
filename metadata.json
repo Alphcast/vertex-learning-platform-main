@@ -1,0 +1,6 @@
+{
+  "name": "Vertex Learning Platform",
+  "description": "A modern learning platform with course catalog, lesson player, intelligent search, and design system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
